@@ -1,0 +1,15 @@
+{
+  "name": "esca-plugin",
+  "author": "hzqlingmou, RongRongJi <316315867@qq.com>, Hanserprpr <2041283903@qq.com>, Pigz2538 <2281717797@qq.com>",
+  "version": "1.0.3",
+  "description": "TRSS-Yunzai的一个功能性插件, 由逸燧重构自 nonebot-plugin-quote（https://github.com/RongRongJi/nonebot_plugin_quote）",
+  "type": "module",
+  "dependencies": {
+    "yaml": "*"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0"
+  }
+}
